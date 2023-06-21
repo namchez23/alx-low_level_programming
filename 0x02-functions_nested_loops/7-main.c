@@ -1,5 +1,5 @@
 #include "main.h"
-	
+
 /**
  * main - check the code
  *
@@ -7,7 +7,7 @@
  */
 int main(void)		
 {	
-    int r;
+	int r;
 
 	print_last_digit(98);
 	print_last_digit(0);
