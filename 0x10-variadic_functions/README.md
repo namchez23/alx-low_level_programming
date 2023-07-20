@@ -41,4 +41,3 @@ You can use a maximum of
 You can declare a maximum of 9 variables
 You are allowed to use printf
 Print a new line at the end of your function
-
